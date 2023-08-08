@@ -45,8 +45,12 @@ Hello, I'm Stephen Kaplan. I'm an open-source software developer focused on work
 => applescript/index.gmi	AppleScript
 => cheatsheets/index.gmi	Cheatsheets
 => jxa/index.gmi	JXA
+=> projects/index.gmi	Projects
 
 ## Other Places to Find Me
+
+=> https://s.kaplan.sdf.org/	My Homepage
+=> gopher://sdf.org/1/users/s.kaplan	My Gopherspace
 
 => https://github.com/SKaplanOfficial	GitHub Profile
 => https://www.linkedin.com/in/stephen-kaplan-8168baa2/	LinkedIn Profile
