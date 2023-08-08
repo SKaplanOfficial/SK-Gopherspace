@@ -1,0 +1,51 @@
+=components/header
+
+!Welcome to my Gopherspace!
+
+-----
+
+0Introduction	introduction.txt
+
+---
+
+My Projects 
+
+1PyXA	projects/pyxa
+
+  Python for Automation. A wrapper around several macOS frameworks
+  that enables AppleScript-and JXA-like control over macOS applications
+  from within Python. PyXA's objects and methods are based on
+  applications' scripting dictionaries and coupled with additional
+  automation features supported by Apple's macOS APIs.
+
+1macimg	projects/macimg
+
+  A Python package for manipulating images using Objective-C frameworks.
+
+
+!Raycast Extensions
+
+1Image Modification	projects/image-modification
+
+  Raycast extension for on-the-fly image adjustments, filtering,
+  and conversion.
+
+1PromptLab	projects/promptlab
+
+  Raycast extension for creating and sharing powerful, contextually-aware
+  AI commands using placeholders, action scripts, and more.
+
+1Pins	projects/pins
+
+  Raycast extension for pinning links, files, folders, apps, scripts, and
+  more to the macOS menu bar.
+
+hOther Raycast Extensions	URL:https://www.raycast.com/HelloImSteven
+
+---
+
+Sub-sites
+
+1applescript	applescript
+1cheatsheets	cheatsheets
+1jxa	jxa
