@@ -2,6 +2,7 @@
 
 !PyXA
 
+ILogo	PyXALogoTransparent.png
 hView On GitHub	URL:https://github.com/SKaplanOfficial/PyXA
 hSupport Development	URL:https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J
 
@@ -66,5 +67,12 @@ Feature Overview
   - Classes for speech and speech recognition
 
   - Ability to create custom menu bar items
+
+
+Examples
+
+0Example 1 - Open URL in Safari	example1.py
+0Example 2 - Print Current Track Information	example2.py
+0Example 3 - Create New Note With Calendar/Reminders Agenda	example3.py
 
 =../../components/menu
