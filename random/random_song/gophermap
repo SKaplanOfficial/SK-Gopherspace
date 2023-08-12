@@ -6,4 +6,4 @@
 
 =cgi-bin/random_song.cgi
 
-=../components/menu
+=../../components/menu

@@ -6,4 +6,4 @@
 
 =cgi-bin/random_activity.cgi
 
-=../components/menu
+=../../components/menu

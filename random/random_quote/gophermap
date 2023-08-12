@@ -6,4 +6,4 @@
 
 =cgi-bin/random_quote.cgi
 
-=../components/menu
+=../../components/menu
