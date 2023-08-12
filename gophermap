@@ -1,7 +1,6 @@
 =components/header
 
 !SK's Gopherspace
-=cgi-bin/counter.cgi
 
 -----
 
@@ -76,6 +75,8 @@ Random Generators
 
 Links
 
+Coming soon!
+
 -----
 
 Other Places To Find Me
@@ -92,3 +93,6 @@ hYouTube Channel	URL:https://www.youtube.com/channel/UCvFD3iYysFzkv1IYo1ugFfw
 Contact Me
 
 Email: s.kaplan@sdf.org
+
+-----
+=cgi-bin/counter.cgi
