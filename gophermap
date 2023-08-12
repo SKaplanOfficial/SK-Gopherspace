@@ -4,17 +4,18 @@
 
 -----
 
-Hello, I'm Stephen Kaplan. I'm an open-source software developer 
-focused on workflow automation, desktop applications, and web development. 
+Hello, I'm Stephen Kaplan. I'm an open-source software developer focused 
+on workflow automation, desktop applications, and web development. 
 I actively maintain several projects, including several Python packages, 
 a list of macOS automation resources, various Raycast extensions, and more. 
-Some projects I've contributed to include rumps, a Python package for creating macOS menu-bar 
-apps, and the Raycast Utils package for Node.js. I've also created and 
-published a few node packages myself, and I'm currently working on a few more. 
-In my spare time, I'm developing a few AppleScript libraries called ImageLib, 
-PDFLib, and WebLib. I also have a YouTube channel (@helloimsteven3103) where I 
-post videos showcasing my projects, and I'm hoping to expand it to include 
-tutorials and other content in the future.
+Some projects I've contributed to include rumps, a Python package for 
+creating macOS menu-bar apps, and the Raycast Utils package for Node.js. 
+I've also created and published a few node packages myself, and I'm 
+currently working on a few more. In my spare time, I'm developing a few 
+AppleScript libraries called ImageLib, PDFLib, and WebLib. I also have a 
+YouTube channel (@helloimsteven3103) where I post videos showcasing my 
+projects, and I'm hoping to expand it to include tutorials and other content 
+in the future.
 
 1Phlog	log
 
@@ -61,3 +62,24 @@ Sub-sites
 1applescript	applescript
 1cheatsheets	cheatsheets
 1jxa	jxa
+
+-----
+
+Links
+
+-----
+
+Other Places To Find Me
+
+hMy HomePage	URL:https://s.kaplan.sdf.org/
+hGitHub Profile	URL:https://github.com/SKaplanOfficial
+hLinkedIn Profile	URL:https://www.linkedin.com/in/stephen-kaplan-8168baa2/
+hNPM Profile 	URL:https://www.npmjs.com/settings/helloimsteven/packages
+hRaycast Developer Profile	URL:https://www.raycast.com/HelloImSteven
+hYouTube Channel	URL:https://www.youtube.com/channel/UCvFD3iYysFzkv1IYo1ugFfw
+
+-----
+
+Contact Me
+
+Email: s.kaplan@sdf.org
