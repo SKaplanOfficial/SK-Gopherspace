@@ -65,6 +65,14 @@ Sub-sites
 
 -----
 
+Random Generators
+
+1Random Activity	random/random_activity
+1Random Quote	random/random_quote
+1Random Song	random/random_song
+
+-----
+
 Links
 
 -----
@@ -83,5 +91,3 @@ hYouTube Channel	URL:https://www.youtube.com/channel/UCvFD3iYysFzkv1IYo1ugFfw
 Contact Me
 
 Email: s.kaplan@sdf.org
-
-=~/bin/counter.cgi

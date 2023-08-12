@@ -1,0 +1,9 @@
+=../../components/header
+
+!Random Activity
+
+-----
+
+=cgi-bin/random_activity.cgi
+
+=../components/menu

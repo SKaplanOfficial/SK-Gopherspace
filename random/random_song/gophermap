@@ -1,0 +1,9 @@
+=../../components/header
+
+!Random Song
+
+-----
+
+=cgi-bin/random_song.cgi
+
+=../components/menu
