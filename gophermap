@@ -1,6 +1,7 @@
 =components/header
 
 !SK's Gopherspace
+=cgi-bin/counter.cgi
 
 -----
 
