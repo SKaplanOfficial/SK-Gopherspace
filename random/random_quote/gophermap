@@ -3,7 +3,6 @@
 !Random Quote
 
 -----
-
-=cgi-bin/random_quote.cgi
+=../../cgi-bin/random_quote.cgi
 
 =../../components/menu

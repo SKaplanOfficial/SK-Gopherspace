@@ -1,2 +1,2 @@
 #!/bin/ksh
-/usr/pkg/bin/perl -e 'srand; rand($.) < 1 && ($line = $_) while <>; print $line;' data/quotes.txt
+/usr/pkg/bin/perl -e 'srand; rand($.) < 1 && ($line = $_) while <>; print $line;' ../../data/quotes.txt

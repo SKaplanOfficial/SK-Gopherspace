@@ -3,7 +3,6 @@
 !Random Activity
 
 -----
-
-=cgi-bin/random_activity.cgi
+=../../cgi-bin/random_activity.cgi
 
 =../../components/menu
